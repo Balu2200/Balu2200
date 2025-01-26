@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms , Mern Stack Web Development
 - 💞️ I’m looking to collaborate on realworld projects
-- 📫 How to reach me  balupasumarthi1@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/balupasumarthi2200/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
