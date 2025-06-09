@@ -56,15 +56,4 @@ Dive into my projects and learn more about my journey as a developer:
 
 ---
 
-  
-- 
-
----
-
-## 🌐 Explore My Work  
-Dive into my projects and learn more about my journey as a developer:  
-👉 [balupasumarthi.vercel.app](https://balupasumarthi.vercel.app/)  
-
----
-
 *"The best error message is the one that never shows up."* – Thomas Fuchs
