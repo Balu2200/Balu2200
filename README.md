@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Balu Pasumarthi!  
-
-![Profile Banner](https://via.placeholder.com/1200x200?text=Balu+Pasumarthi+-+Software+Developer)  
 *Crafting scalable web applications with code and creativity*  
 
 ---
@@ -14,14 +12,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)  
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
 
 ---
 
