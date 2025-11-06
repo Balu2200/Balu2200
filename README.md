@@ -28,7 +28,7 @@
 
 ## 💞️ Let's Build Together!  
 I'm eager to collaborate on:  
-- 🌐 MERN Stack projects  
+- 🌐 Full Stack with AI projects  
 - 🧩 Open-source contributions  
 - 💡 Innovative web applications  
 
