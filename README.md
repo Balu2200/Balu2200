@@ -41,12 +41,11 @@ I'm eager to collaborate on:
 ## 📊 My GitHub Stats  
 
 ### 📈 Profile Overview
-- 🗂️ **Total Repositories**: 25 public repositories
-- ⭐ **Total Stars Received**: 4 stars across projects
+- 🗂️ **Public Repositories**: ![GitHub repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBalu2200)
 - 🔧 **Primary Languages**: JavaScript, Python, TypeScript, CSS, HTML
 - 🌟 **Featured Projects**: 
-  - [Digital Wallet System](https://github.com/Balu2200/Digital_Wallet_System_Frontend) ⭐ 1
-  - [ConnectNow](https://github.com/Balu2200/ConnectNow_Frontend) ⭐ 1
+  - [Digital Wallet System](https://github.com/Balu2200/Digital_Wallet_System_Frontend) ![GitHub stars](https://img.shields.io/github/stars/Balu2200/Digital_Wallet_System_Frontend?style=social)
+  - [ConnectNow](https://github.com/Balu2200/ConnectNow_Frontend) ![GitHub stars](https://img.shields.io/github/stars/Balu2200/ConnectNow_Frontend?style=social)
 
 ### 📊 GitHub Statistics
 ![Balu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balu2200&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)  
