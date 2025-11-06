@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **Learning**: Data Structures & Algorithms, MERN Stack Web Development  
+- 🎓 **Learning**: Data Structures & Algorithms, Full Stack Web Development, Agentic AI  
 - 💻 **Passions**: Full-Stack Development, Problem Solving, Building Real-World Solutions  
 - 🚀 **Mission**: Collaborate on innovative projects that make a difference  
 - ⚡ **Fun Fact**: I can debug code faster than I can finish a cup of coffee! ☕  
