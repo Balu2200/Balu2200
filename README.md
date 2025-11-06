@@ -39,8 +39,26 @@ I'm eager to collaborate on:
 ---
 
 ## 📊 My GitHub Stats  
-![Balu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balu2200&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balu2200&layout=compact&theme=dracula)  
+
+### 📈 Profile Overview
+- 🗂️ **Public Repositories**: ![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=repos&labelColor=333&color=blue&query=$.public_repos&url=https://api.github.com/users/Balu2200)
+- 🔧 **Primary Languages**: JavaScript, Python, TypeScript, CSS, HTML
+- 🌟 **Featured Projects**: 
+  - [Digital Wallet System](https://github.com/Balu2200/Digital_Wallet_System_Frontend) ![GitHub stars](https://img.shields.io/github/stars/Balu2200/Digital_Wallet_System_Frontend?style=social)
+  - [ConnectNow](https://github.com/Balu2200/ConnectNow_Frontend) ![GitHub stars](https://img.shields.io/github/stars/Balu2200/ConnectNow_Frontend?style=social)
+
+### 📊 GitHub Statistics
+![Balu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balu2200&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Balu2200&theme=dracula)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balu2200&layout=compact&theme=dracula&langs_count=8)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Balu2200&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+### 📊 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balu2200&theme=dracula&hide_border=true)  
 
 ---
 
